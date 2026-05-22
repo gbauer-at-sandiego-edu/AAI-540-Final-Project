@@ -1,0 +1,40 @@
+{
+  "skills": {
+    "dataset-evaluation": {
+      "checksum": "34ce119b0bcdcc584841ba2897497def3a8cceb0836b7c4d66abe2846d5fda04"
+    },
+    "dataset-transformation": {
+      "checksum": "e074bfcc83ecbb5d5731bb5671c6a44a4280d763d80b5b4ecc4c6271894f3ea4"
+    },
+    "directory-management": {
+      "checksum": "2b1416a65a34318e725e9eb19ddb5885a0f641652ac7833f0b93538f3f5705ba"
+    },
+    "finetuning-setup": {
+      "checksum": "786fae3602e047b08fe0f1e8e3f6755c60d59c154e00e983616eabf39316a998"
+    },
+    "finetuning": {
+      "checksum": "d637abb436f5f9a997b32ae2d8fed7eda346e68e080eaa732b24bea394f0a2f9"
+    },
+    "hyperpod-issue-report": {
+      "checksum": "34c529918dd7d1620a184b07ca33ec64f2f44edba550cbb441410185f22a31d6"
+    },
+    "hyperpod-ssm": {
+      "checksum": "43d9b515d266c3da0663fa3804b821ece2ea8d1009ad43ab6dc6790574d80c9d"
+    },
+    "hyperpod-version-checker": {
+      "checksum": "2588aa7d3dcb78c0745bcb97b8904a7808774fd1bac9a3d9327b1416d4a7ade4"
+    },
+    "model-deployment": {
+      "checksum": "b3d07a3d2e0a62d99bbf182061fc4e04677ca6c49a3ff4c7359bc8e70a9174ff"
+    },
+    "model-evaluation": {
+      "checksum": "95782d6f72de795e8aa5bd083b56108d71a58a79898e0eab54d11f6c5e8a5e3a"
+    },
+    "planning": {
+      "checksum": "a0ac7d69dbd8ac08a73834b590c6d3f417e70a0b87021117d20cb5ec01a62969"
+    },
+    "use-case-specification": {
+      "checksum": "73f5690235393606254b88197815be6ba3d481718dc0b3e98f0e6c3a541b7ffb"
+    }
+  }
+}

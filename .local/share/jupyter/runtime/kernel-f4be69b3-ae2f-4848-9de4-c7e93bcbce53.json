@@ -1,0 +1,13 @@
+{
+  "shell_port": 34221,
+  "iopub_port": 45863,
+  "stdin_port": 45325,
+  "control_port": 38941,
+  "hb_port": 55493,
+  "ip": "127.0.0.1",
+  "key": "8dbc6742-19d3d511fa512626e8138277",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/aai-540-labs/lab-3-1-sagemaker-feature-store/sagemaker_featurestore_fraud_detection_python_sdk.ipynb"
+}

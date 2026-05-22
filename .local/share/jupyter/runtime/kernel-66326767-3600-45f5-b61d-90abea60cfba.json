@@ -1,0 +1,13 @@
+{
+  "shell_port": 51459,
+  "iopub_port": 47749,
+  "stdin_port": 35881,
+  "control_port": 45799,
+  "hb_port": 34803,
+  "ip": "127.0.0.1",
+  "key": "87fc53c2-2aebf24671a0a2cee6dd3b3a",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/aai-540-labs/lab-2-1-setting-up-a-datalake-in-aws/02_setup_datalake/03_Register_S3_TSV_With_Athena.ipynb"
+}

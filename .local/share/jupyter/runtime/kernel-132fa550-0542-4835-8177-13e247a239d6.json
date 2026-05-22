@@ -1,0 +1,13 @@
+{
+  "shell_port": 48261,
+  "iopub_port": 37289,
+  "stdin_port": 51281,
+  "control_port": 32879,
+  "hb_port": 37801,
+  "ip": "127.0.0.1",
+  "key": "b4eef790-38c564cae9411cfa7aeba296",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/aai-540-homework/homework-2-1/Untitled.ipynb"
+}

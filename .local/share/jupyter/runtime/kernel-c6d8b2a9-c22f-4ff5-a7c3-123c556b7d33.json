@@ -1,0 +1,13 @@
+{
+  "shell_port": 46235,
+  "iopub_port": 58257,
+  "stdin_port": 46833,
+  "control_port": 39871,
+  "hb_port": 57903,
+  "ip": "127.0.0.1",
+  "key": "49faef8a-cb83fc4ca434b1452904e5dd",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/aai-540-labs/lab-2-1-setting-up-a-datalake-in-aws/01_setup_env/02_Create_S3_Bucket.ipynb"
+}

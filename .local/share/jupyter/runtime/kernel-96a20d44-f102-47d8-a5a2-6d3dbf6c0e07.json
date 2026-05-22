@@ -1,0 +1,13 @@
+{
+  "shell_port": 52741,
+  "iopub_port": 49679,
+  "stdin_port": 48475,
+  "control_port": 58965,
+  "hb_port": 60733,
+  "ip": "127.0.0.1",
+  "key": "ee6d856e-fb282c5fbedd9d4fc85b2861",
+  "transport": "tcp",
+  "signature_scheme": "hmac-sha256",
+  "kernel_name": "python3",
+  "jupyter_session": "/home/sagemaker-user/aai-540-labs/lab-2-1-setting-up-a-datalake-in-aws/02_setup_datalake/00_Overview.ipynb"
+}
